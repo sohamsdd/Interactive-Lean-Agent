@@ -2,7 +2,7 @@
 
 > An agentic AI pipeline that combines **OpenAI o4-mini** with **Lean 4 + Mathlib** to automatically generate, verify, and iteratively correct formal mathematical proofs from natural language.
 
-**BITS Pilani, K.K. Birla Goa Campus — Master's Research Project 2025**  
+**BITS Pilani, K.K. Birla Goa Campus — Master's Research Project 2026**  
 Prem Adhiya · Soham Deshpande · Junaid
 
 ---
@@ -201,6 +201,3 @@ This project is inspired by:
 
 ---
 
-## License
-
-MIT License — see `LICENSE` for details.
